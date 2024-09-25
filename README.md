@@ -1,0 +1,1 @@
+Esse projeto é um joguinho que fiz por conta propria, logo apos descobrir a biblioteca PYGAME me interessei e fui criar um jogo tendo o personagem principal o MIKE, meu cachorro de estimação, foi bom para aprender novas bibliotecas no python e um otimo desenvolvimento pessoal
